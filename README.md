@@ -19,3 +19,8 @@ The model is trained by specifying the number of epochs and saved after executio
 Then, the rectangles are drawn around the faces. The webcam is turned on and the obtained image is resized and converted into a numpy array. 
 The output image is compared with the folders in the dataset. If there is a match, the corresponding name is printed. Otherwise, “none matching” is printed.
 More images have to be given for training. In case of lack of availability of data, the number of epochs have to be increased for accurate prediction.
+
+Creating dataset: Dataset for different people for comparision can be downloaded anywhere from the internet.
+Our own images can be clicked using webcam.
+All these data can be used for training the model.
+Different datasets are available in youtube video descriptions.
